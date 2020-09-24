@@ -21,6 +21,9 @@ Hobbies
 🖤 Cricket and Badminton Lover
 
 Connect with Me
+<br/>
 <a href="https://psin007.github.io/">Portfolio</a> 
+<br/>
 <a href="https://www.linkedin.com/in/pooja-sinha-3003/">LinkedIn</a> 
+<br/>
 <a href="mailto:poojasin303@gmail.com">Email</a> 
