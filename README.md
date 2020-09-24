@@ -5,6 +5,7 @@ I'm a Software Engineer and a recent graduate of Monash University as a Master o
 Currently I am looking for an 🌟opportunity to work as a Software Engineer or a Java Backend Developer to build innovative applications that are competitive in market and benefit organization and community, in general.
 
 My top projects
+<hr/>
 <br/>
 👩 Healthy Maternity - It's an android application to help track weight of pregnant women in rural Victoria and to share progress with their Obstretician online.
 <br/>
@@ -13,6 +14,7 @@ My top projects
 ⚽ FIFA WC Simulation - A Java prototype of FIFA World Cup using Core Java Technologies
 <br/><br/>
 My Values
+<hr/>
 <br/>
 🧠 Thoughtful & Inclusive Development
 <br/>
@@ -22,12 +24,14 @@ My Values
 <br/><br/>
 Favourite Hobbies
 <br/>
+<hr/>
 🔭 Star Gazing
 <br/>
 🎾 Cricket and Badminton Lover
 <br/>
 
 Connect with Me
+<hr/>
 <br/>
 <a href="https://psin007.github.io/">Portfolio</a> 
 <br/>
