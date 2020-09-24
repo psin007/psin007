@@ -9,7 +9,7 @@ My top projects<br/>
 <br/>
 👩 Healthy Maternity - It's an android application to help track weight of pregnant women in rural Victoria and to share progress with their Obstretician online.
 <br/>
-🔥 Holiday Booking Enterprise Application - It's a java prototype of a Holiday Booking Application using Java EE technologies(EJB, JPA, JSF, Java Beans)
+🌈 Holiday Booking Enterprise Application - It's a java prototype of a Holiday Booking Application using Java EE technologies(EJB, JPA, JSF, Java Beans)
 <br/>
 ⚽ FIFA WC Simulation - A Java prototype of FIFA World Cup using Core Java Technologies
 <br/><br/>
