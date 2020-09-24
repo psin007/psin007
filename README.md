@@ -6,7 +6,6 @@ Currently I am looking for an 🌟opportunity to work as a Software Engineer or 
 
 My top projects
 <hr/>
-<br/>
 👩 Healthy Maternity - It's an android application to help track weight of pregnant women in rural Victoria and to share progress with their Obstretician online.
 <br/>
 🔥 Holiday Booking Enterprise Application - It's a java prototype of a Holiday Booking Application using Java EE technologies(EJB, JPA, JSF, Java Beans)
@@ -15,7 +14,6 @@ My top projects
 <br/><br/>
 My Values
 <hr/>
-<br/>
 🧠 Thoughtful & Inclusive Development
 <br/>
 💡 Mindset of Learning & Curiosity
@@ -23,7 +21,6 @@ My Values
 🙌 Teamwork & Communication
 <br/><br/>
 Favourite Hobbies
-<br/>
 <hr/>
 🔭 Star Gazing
 <br/>
