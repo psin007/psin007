@@ -11,7 +11,7 @@ What I have worked on
 🔥 Holiday Booking Enterprise Application - It's a java prototype of a Holiday Booking Application using Java EE technologies(EJB, JPA, JSF, Java Beans)
 <br/>
 ✨ FIFA WC Simulation - A CLI Java prototype of FIFA World Cup using Core Java Technologies
-<br/>
+<br/><br/>
 My Values
 <br/>
 🧠 Thoughtful & Inclusive Development
@@ -19,8 +19,8 @@ My Values
 💡 Mindset of Learning & Curiosity
 <br/>
 🙌 Teamwork & Communication
-<br/>
-Hobbies
+<br/><br/>
+Favourite Hobbies
 <br/>
 🔭 Star Gazing
 <br/>
