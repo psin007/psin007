@@ -1,9 +1,3 @@
-<style>
-      hr {
-        height: 1px;
-        background-color: #b7d0e2;
-      }
-    </style>
 ### Hi there, I'm Pooja  👋
 
 I'm a Software Engineer and a recent graduate of Monash University as a Master of Information Technology. I have around 2.5 years' international experience as a Software Engineer in Momentum Systems and as a System Software Engineer in Hewlett Packard Enterprise. 
