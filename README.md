@@ -13,22 +13,27 @@ My top projects<br/>
 <br/>
 ⚽ FIFA WC Simulation - A Java prototype of FIFA World Cup using Core Java Technologies
 <br/><br/>
-My Values
-<hr/>
+My Values<br/>
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+<br/>
 🧠 Thoughtful & Inclusive Development
 <br/>
 💡 Mindset of Learning & Curiosity
 <br/>
 🙌 Teamwork & Communication
 <br/><br/>
-Favourite Hobbies
-<hr/>
+Favourite Hobbies<br/>
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+<br/>
 🔭 Star Gazing
 <br/>
 🎾 Cricket and Badminton Lover
-<br/>
+<br/><br/>
 
-Connect with Me
+Connect with Me<br/>
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+<br/>
 <hr/>
 <br/>
 <a href="https://psin007.github.io/">Portfolio</a> 
