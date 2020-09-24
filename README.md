@@ -5,7 +5,7 @@ I'm a Software Engineer and a recent graduate of Monash University as a Master o
 Currently I am looking for an 🌟opportunity to work as a Software Engineer or a Java Backend Developer to build innovative applications that are competitive in market and benefit organization and community, in general.
 
 My top projects
-***
+** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 
 👩 Healthy Maternity - It's an android application to help track weight of pregnant women in rural Victoria and to share progress with their Obstretician online.
 <br/>
 🔥 Holiday Booking Enterprise Application - It's a java prototype of a Holiday Booking Application using Java EE technologies(EJB, JPA, JSF, Java Beans)
