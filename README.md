@@ -11,7 +11,7 @@ My top projects<br/>
 <br/>
 🌈 Holiday Booking Enterprise Application - It's a java prototype of a Holiday Booking Application using Java EE technologies(EJB, JPA, JSF, Java Beans)
 <br/>
-⚽ FIFA WC Simulation - A Java prototype of FIFA World Cup using Core Java Technologies
+⚽ Family Tree - A Java prototype of a family tree using Core Java Technologies and OO design
 <br/><br/>
 My Values<br/>
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
